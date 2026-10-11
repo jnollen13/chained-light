@@ -1,7 +1,9 @@
 # Chained Light
 
 [**Chained Light|Web**](chainedLight/Index.html)
+
 [**Chained Light|Linux**](chainedLightLinux/Index.html)
+
 [**Chained Light|Windows Desktop**](chainedLightWindows/Index.html)
 ## How to play
 
