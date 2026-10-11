@@ -1,6 +1,6 @@
 # Chained Light
 
-[**Chained Light|Web|Desktop**](jnollen13.github.io/chained-light/chainedLight/Index.html)
+[**Chained Light|Web|Desktop**](chainedLight/Index.html)
 ## How to play
 
 **Controls**: move the ball left or right with by *pressing* the arrow keys or using WASD. pressing W or the up arrow will move the lantern upwards which can be used to avoid getting stuck. Pressing the down arrow or S will move the lantern slightly forwards.
