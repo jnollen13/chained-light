@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791733540|808363725';
+const CACHE_VERSION = '1792001736|25825807646';
 /** @type {string} */
-const CACHE_PREFIX = 'chained light-sw-cache-';
+const CACHE_PREFIX = 'Chained Light-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'Index.offline.html';
