@@ -1,4 +1,5 @@
 # Chained Light
+v1.1.0
 
 [**Chained Light|Web**](chainedLight/Index.html)
 ## How to play
