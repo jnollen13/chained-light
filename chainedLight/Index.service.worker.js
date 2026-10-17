@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792158078|58128704992';
+const CACHE_VERSION = '1792203400|496408213';
 /** @type {string} */
 const CACHE_PREFIX = 'Chained Light-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
@@ -14,7 +14,7 @@ const OFFLINE_URL = 'Index.offline.html';
 const ENSURE_CROSSORIGIN_ISOLATION_HEADERS = true;
 // Files that will be cached on load.
 /** @type {string[]} */
-const CACHED_FILES = ["Index.html","Index.js","Index.offline.html","Index.audio.worklet.js","Index.audio.position.worklet.js"];
+const CACHED_FILES = ["Index.html","Index.js","Index.offline.html","Index.icon.png","Index.apple-touch-icon.png","Index.audio.worklet.js","Index.audio.position.worklet.js"];
 // Files that we might not want the user to preload, and will only be cached on first load.
 /** @type {string[]} */
 const CACHEABLE_FILES = ["Index.wasm","Index.pck"];
